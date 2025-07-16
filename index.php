@@ -15,3 +15,5 @@ else {
     require('./page404.php');
 }
 ?>
+<a href="./home.php">home</a>
+<a href="./contact.php">contact</a>
