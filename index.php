@@ -14,6 +14,5 @@ else if ($url == $prefixUrl. 'mention'){
 else {
     require('./page404.php');
 }
+ require 'navbar.php';
 ?>
-<a href="./home.php">home</a>
-<a href="./contact.php">contact</a>
